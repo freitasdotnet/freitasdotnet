@@ -1,57 +1,42 @@
 <div align="center">
+<table>
+  <tr>
+    <td align="center" width="300">
+      <img src="https://github.com/SEU_USUARIO_AQUI.png" width="250px" style="border-radius: 50%;" alt="Foto de Davi Freitas"/>
+      <br>
+      <h2> Davi Freitas </h2>
+    </td>
+    <td>
+      <h1>Oi! Eu sou o Davi, e esse é meu laboratório do mal, haha!</h1>
+      <p>Nesse perfil, importo meus códigos e ideias para projetos atuais e futuros. Espero que goste!</p>
+      
+      <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=250&section=header&text=Triunfam%20aqueles%20que%20sabem%20quando%20atacar%20e%20quando%20esperar&fontSize=22&animation=fadeIn&fontAlignY=35&desc=Sun%20Tzu&descAlignY=52&descSize=15" width="100%"/>
+      <div align="left">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" hspace="5">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" hspace="5">
+        <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" hspace="5">
+        <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" hspace="5">
+        <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" hspace="5">
+      </div>
 
-<h1> 👾 Davi Freitas </h1>
+      <br>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=500&lines=Cybersecurity+Specialist;Threat+Intelligence+Analyst;Malware+Analysis;Blue+Team+Operator" alt="Typing SVG" />
-</p>
-
-<p align="center">
-<a href="https://www.linkedin.com/in/freitasinfosec/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="mailto:seu-email@exemplo.com"><img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</p>
-
+      <div align="left">
+        <a href="https://www.youtube.com/@SEU_CANAL_AQUI" target="_blank">
+          <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" hspace="5">
+        </a>
+        <a href="https://www.instagram.com/davifreitas.jpg" target="_blank">
+          <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" hspace="5">
+        </a>
+        <a href="https://www.linkedin.com/in/freitasinfosec" target="_blank">
+          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" hspace="5">
+        </a>
+        <a href="mailto:davifreitas.net@proton.me">
+          <img src="https://img.shields.io/badge/ProtonMail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" hspace="5">
+        </a>
+      </div>
+    </td>
+  </tr>
+</table>
 </div>
-
----
-
-### 🛡️ Sobre Mim
-Acadêmico e pesquisador independente, focado em decifrar ameaças e proteger ambientes digitais. Minha jornada é guiada pela curiosidade técnica e pelo compromisso com a privacidade.
-
-* 🔭 **Especialidades:** Cibersegurança, Threat Intelligence, Desenvolvimento e Análise de Malware e Pentesting.
-* ⚡ **Mindset:** "Privacidade não é algo a esconder, mas algo a proteger." – *Edward Snowden*.
-* 🤖 **Hacking Style:** "O hacking é uma atitude, não um crime." – *Kevin Mitnick*.
-
----
-
-### 🛠️ Tech Stack & Arsenal
-Inspirado na estética dev moderna, aqui estão as tecnologias que domino:
-
-<div align="left">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" />
-</div>
-
----
-
-### 📜 Certificações Recentes
-Comprometido com a excelência técnica e atualização constante no setor de defesa cibernética:
-
-| Badge | Especialização | Emissor | Data |
-| :---: | :--- | :--- | :--- |
-| 🔴 | **CTIGA** (Threat Intelligence & Governance) | Red Team Leaders | Jan 2026 |
-| 🛡️ | **CCSC** (CyberSecurity Career Starter) | Hack & Fix | Jan 2026 |
-| 🕵️ | **Cyber Threat Hunting** | Hackers Hive | Nov 2024 |
-| 💻 | **Cybersecurity Specialist** | Hackers Hive | Nov 2024 |
-| 🔍 | **Perito Forense Digital** | Academia de Forense Digital | 2024 |
-| 🎓 | **Google Cybersecurity Certificate** | Google | Out 2024 |
-| 🏛️ | **CC50 - Ciência da Computação** | Harvard / Estudar | Set 2024 |
-| 🔒 | **Endpoint Security** | Cisco | Set 2024 |
-
-
