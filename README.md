@@ -54,18 +54,4 @@ Comprometido com a excelência técnica e atualização constante no setor de de
 | 🏛️ | **CC50 - Ciência da Computação** | Harvard / Estudar | Set 2024 |
 | 🔒 | **Endpoint Security** | Cisco | Set 2024 |
 
----
 
-### 📊 GitHub Stats (Terminal Style)
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
----
-
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGI5YjI4ZzRndmR4eXZ4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/JZS0S6z0OPlC0/giphy.gif" width="100px">
-  <br>
-  <sub>"Stay safe in the digital wild."</sub>
-</div>
