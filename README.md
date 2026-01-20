@@ -2,7 +2,7 @@
 <table>
   <tr>
     <td align="center" width="300">
-      <img src="https://github.com/SEU_USUARIO_AQUI.png" width="250px" style="border-radius: 50%;" alt="Foto de Davi Freitas"/>
+      <img src="https://github.com/freitasdotnet" width="250px" style="border-radius: 50%;" alt="Foto de Davi Freitas"/>
       <br>
       <h2> Davi Freitas </h2>
     </td>
